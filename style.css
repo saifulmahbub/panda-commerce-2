@@ -1,0 +1,62 @@
+.container{
+    margin-bottom: 100px;
+}
+.bg-new{
+ background-image: url("images/hot-gadgets/bg-2.png");
+ background-repeat: no-repeat;
+ height: 400px;
+}
+.button-new{
+    background-color: black;
+    color: #fff;
+    border-radius: 5px;
+}
+h4{
+    color: orangered;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+}
+.card-deck{
+    text-align: center;
+   
+}
+.card-body p{
+    color: gray;
+}
+.card-footer {
+    border: none;
+    box-shadow: 10px 10px 10px lightgray;
+  
+   
+  
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 10px lightgray;
+}
+
+.saiful img{
+    width: 500px;
+}
+.last-part{
+    text-align: center;
+    margin-bottom: 30px;
+   
+}
+.rakib{
+    margin-top: 100px;
+}
+.box{
+   
+    box-shadow: 5px 5px 20px lightgray;
+    justify-content: center;
+}
+.box1{
+    margin-top: 90px;
+    width: 100px;
+    height: 150px;
+    box-shadow: 1px 1px 5px lightgray;
+    justify-content: center;
+} 
